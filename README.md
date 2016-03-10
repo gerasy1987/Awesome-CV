@@ -19,7 +19,7 @@
 
 You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
 
-![Résumé(Page 1)](https://raw.githubusercontent.com/gerasy1987/Awesome-CV/master/examples/resume-3.jpg)
+![Résumé(Page 1)](https://raw.githubusercontent.com/gerasy1987/Awesome-CV/master/examples/resume_3.jpg)
 ![Résumé(Page 2)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)
 
 #### Cover Letter
