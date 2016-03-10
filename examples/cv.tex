@@ -23,15 +23,18 @@
 % Configure page margins with geometry
 \geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
 
+% Nice copyright sign with \textcopyright
+\usepackage{textcomp}
+
 % Specify the location of the included fonts
 \fontdir[fonts/]
 
 % Color for highlights
 % Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
 %                 awesome-nephritis, awesome-concrete, awesome-darknight
-\colorlet{awesome}{awesome-red}
+% \colorlet{awesome}{awesome-pink}
 % Uncomment if you would like to specify your own color
-\definecolor{awesome}{HTML}{636363}
+\definecolor{awesome}{HTML}{034E7B}
 
 % Colors for text
 % Uncomment if you would like to specify your own color
@@ -52,6 +55,7 @@
 %	Comment any of the lines below if they are not required
 %-------------------------------------------------------------------------------
 \name{Georgiy}{Syunyaev}
+
 \position{PhD Candidate {\enskip\cdotp\enskip} Political Science}
 \address{527 West 121st Street, Apt. 42A, New York, NY, 10027, US}
 
@@ -66,7 +70,7 @@
 % \reddit{reddit-id}
 % \extrainfo{extra informations}
 
-% \quote{``Must be the change that you want to see in the world."}
+% \quote{``In theory, there is no difference between theory and practice. But, in practice, there is.''\\ Jan L. A. van de Snepscheut}
 
 
 %-------------------------------------------------------------------------------
@@ -88,13 +92,15 @@
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
 \input{cv/education.tex}
-\input{cv/writing.tex}
-\input{cv/presentation.tex}
+\input{cv/publications.tex}
+\input{cv/conferences.tex}
 \input{cv/skills.tex}
-\input{cv/experience.tex}
-\input{cv/extracurricular.tex}
-\input{cv/honors.tex}
-\input{cv/committees.tex}
+\input{cv/appointments.tex}
+\input{cv/grants.tex}
+\input{cv/referee_service.tex}
+\input{cv/teaching.tex}
+\input{cv/personal.tex}
+
 
 
 %-------------------------------------------------------------------------------
