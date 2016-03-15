@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1457214038 "/Users/gerasy/Google Drive/3 - Columbia/CV/Awesome-CV/examples/cv.tex" "/Users/gerasy/Google Drive/3 - Columbia/CV/Awesome-CV/examples/cv.pdf" "cv" 1457214105
-  "/Users/gerasy/Google Drive/3 - Columbia/CV/Awesome-CV/examples/cv.aux" 1457214044 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
-  "/Users/gerasy/Google Drive/3 - Columbia/CV/Awesome-CV/examples/cv.tex" 1457113858 3301 4632254fe564c71d19599c13c2469e89 ""
+["pdflatex"] 1458060558 "/Users/gerasy/Google Drive/3 - Columbia/CV/Awesome-CV/examples/cv.tex" "/Users/gerasy/Google Drive/3 - Columbia/CV/Awesome-CV/examples/cv.pdf" "cv" 1458060559
+  "/Users/gerasy/Google Drive/3 - Columbia/CV/Awesome-CV/examples/cv.aux" 1457467787 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
+  "/Users/gerasy/Google Drive/3 - Columbia/CV/Awesome-CV/examples/cv.tex" 1458060543 3467 e397a407efffa107f8da2ea64a616648 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
@@ -40,7 +40,7 @@
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
   "/usr/local/texlive/texmf-local/web2c/texmf.cnf" 1453648949 95 8b948edf8dcd1e79fd0de85911d49e01 ""
   "awesome-cv.cls" 1457032084 23823 f7880557acf4bf49dec7021dc7d19607 ""
-  "cv.tex" 1457113858 3301 4632254fe564c71d19599c13c2469e89 ""
+  "cv.tex" 1458060543 3467 e397a407efffa107f8da2ea64a616648 ""
   (generated)
   "/Users/gerasy/Google Drive/3 - Columbia/CV/Awesome-CV/examples/cv.pdf"
   "cv.log"
