@@ -14,16 +14,20 @@
 
 ## <a name="preview"></a>Preview
 
+#### CV
+
+You can see PDF [here](https://raw.githubusercontent.com/gerasy1987/Awesome-CV/master/examples/cv.pdf)
+
 #### Résumé
 
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
+You can see PDF [here](https://raw.githubusercontent.com/gerasy1987/Awesome-CV/master/examples/resume.pdf)
 
 <!-- ![Résumé(Page 1)](https://raw.githubusercontent.com/gerasy1987/Awesome-CV/master/examples/resume_3.jpg)
 ![Résumé(Page 2)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)
  -->
 #### Cover Letter
 
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)
+You can see PDF [here](https://raw.githubusercontent.com/gerasy1987/Awesome-CV/master/examples/coverletter.pdf)
 
 <!-- ![Cover Letter(Traditional)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-0.png)
 ![Cover Letter(Awesome)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-1.png)
@@ -32,8 +36,11 @@ You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/e
 ## <a name="quick-start">Quick Start
 
 * [**Edit Résumé on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv/tvmzpvdjfqxp)
+
 <!-- * [**Edit Résumé on ShareLaTeX.com**](https://www.sharelatex.com/templates/cv-or-resume/awesome-cv) -->
+
 * [**Edit Cover Letter on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv-cover-letter/pfzzjspkthbk)
+
 <!-- * [**Edit Cover Letter on ShareLaTeX.com**](https://www.sharelatex.com/templates/cover-letters/awesome-cv-cover-letter) -->
 
 **_Note:_ Above services do not guarantee up-to-date source code of Awesome CV**
@@ -70,8 +77,6 @@ This should result in the creation of ``{your-cv}.pdf``
 
 ## <a name="credit2">Repo Credit
 
-You are free to take my `.tex` file and modify it to create your own resume. Please don't use my resume for anything else without my permission, though!
-
-If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/posquit0) to connect.
+If you want to take this `.tex` file and modify it to create your own resume you can access it at the original repository made by [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) at [posquit0 Awesome-CV page](https://github.com/posquit0/Awesome-CV)
 
 Good luck!
