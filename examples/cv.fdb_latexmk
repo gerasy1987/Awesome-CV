@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1498469044 "cv.xdv" "cv.pdf" "cv" 1498469045
-  "cv.xdv" 1498469044 123296 c7bf08ed49e2e45e306c29e4688e84a3 "xelatex"
+["xdvipdfmx"] 1498476741 "cv.xdv" "cv.pdf" "cv" 1498476741
+  "cv.xdv" 1498476741 123340 8b182ddad23782455ed68fa408c5117c "xelatex"
   (generated)
   "cv.pdf"
-["xelatex"] 1498469042 "cv.tex" "cv.xdv" "cv" 1498469045
+["xelatex"] 1498476739 "cv.tex" "cv.xdv" "cv" 1498476741
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1480098689 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1480098701 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -76,11 +76,11 @@
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "/usr/local/texlive/texmf-local/web2c/texmf.cnf" 1453648949 95 8b948edf8dcd1e79fd0de85911d49e01 ""
   "awesome-cv.cls" 1458231256 23823 f7880557acf4bf49dec7021dc7d19607 ""
-  "cv.aux" 1498469044 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
-  "cv.out" 1498469044 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "cv.aux" 1498476741 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
+  "cv.out" 1498476741 0 d41d8cd98f00b204e9800998ecf8427e ""
   "cv.tex" 1483995447 3508 bcccc9d7e9cf520c53972271b0dcac52 ""
   "cv/01_education.tex" 1498468870 2897 99dd22a6da21a947272c5ce5f0c7a9e2 ""
-  "cv/02_publications.tex" 1498468322 5751 9f51b5bb33ef5877bb0a15c169603c33 ""
+  "cv/02_publications.tex" 1498476728 5757 7faecbb1d58c391cf3191fe3c47ea973 ""
   "cv/03_skills.tex" 1479577845 1826 d6135c16bd7bcd426fbe3e7dd31611d4 ""
   "cv/04_software.tex" 1479580358 1764 176660e4e96220ea38b3648e40811325 ""
   "cv/05_appointments.tex" 1457453347 4019 3ab79cb585c2439ea2c5b915be0461e9 ""
@@ -92,6 +92,6 @@
   "fontawesome.sty" 1458228520 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
   (generated)
   "cv.log"
-  "cv.xdv"
-  "cv.out"
   "cv.aux"
+  "cv.out"
+  "cv.xdv"
